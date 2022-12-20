@@ -230,6 +230,10 @@ h1, h2, h3, h4 {
    font-size: 0.6em ;
    
 }
+
+.footer div >p {
+    margin-bottom:5px;
+}
 .footer div:hover {
     background-color: rgb(102, 75, 40);
 }
